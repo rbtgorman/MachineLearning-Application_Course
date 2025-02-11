@@ -1,1 +1,1 @@
-![Description of the image](project_ML.jpg)
+![Description of the image](group_project_ML.jpg)
